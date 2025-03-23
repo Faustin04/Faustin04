@@ -3,6 +3,8 @@
  
  <img src= "/Users/faustinkambale/Library/CloudStorage/OneDrive-DukeUniversity/Duke/Classes/Spring 2025/Stat modelling/Assignments/Week9_assignment/DSC09587.jpg">
 
+ ![Alt text]('/Users/faustinkambale/Library/CloudStorage/OneDrive-DukeUniversity/Duke/Classes/Spring 2025/Stat modelling/Assignments/Special Repository/me.jpg')
+
 <!--
 **Faustin04/Faustin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
