@@ -1,9 +1,7 @@
 ## Hi there 👋
  My name is Faustin Kambale, a second year Master of International Development Policy candidate at Sanford School of Public Policy at Duke. I am happy that you can read about me here. Feel free to follow me on my linkedin profile here : https://www.linkedin.com/in/faustinkambale/
  
- <img src= "/Users/faustinkambale/Library/CloudStorage/OneDrive-DukeUniversity/Duke/Classes/Spring 2025/Stat modelling/Assignments/Week9_assignment/DSC09587.jpg">
-
- ![Alt text]('/Users/faustinkambale/Library/CloudStorage/OneDrive-DukeUniversity/Duke/Classes/Spring 2025/Stat modelling/Assignments/Special Repository/me.jpg')
+ <img src= me.jpg>
 
 <!--
 **Faustin04/Faustin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
