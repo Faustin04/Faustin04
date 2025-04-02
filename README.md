@@ -1,8 +1,8 @@
 ## Hi there 👋
- My name is Faustin Kambale, a second year Master of International Development Policy candidate at Sanford School of Public Policy at Duke. I am happy that you can read about me here. 
+ My name is Faustin Kambale, a second year Master of International Development Policy candidate at Sanford School of Public Policy at Duke.  
  
 My research interest includes critical natural resource management, energy & environmental policy, and local community empowerment. My current research examines the cost and benefit analysis of lithium-ion battery production in DRC. I like watching documentaries, walking & biking, playing soccer and reading.
- Feel free to follow me on my linkedin profile here : https://www.linkedin.com/in/faustinkambale/
+I am happy that you can read about me here. Feel free to follow me on my linkedin profile here : https://www.linkedin.com/in/faustinkambale/
  
  <img src= me.jpg>
 
